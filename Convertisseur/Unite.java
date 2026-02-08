@@ -1,0 +1,5 @@
+package Convertisseur;
+
+public enum Unite {
+    KILOMETRE, HECTOMETRE, DECAMETRE, METRE, DECIMETRE, CENTIMETRE, MILLIMETRE
+}
